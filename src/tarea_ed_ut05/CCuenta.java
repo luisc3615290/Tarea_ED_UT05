@@ -1,7 +1,6 @@
 package tarea_ed_ut05;
 /**
  * @author luisc
- * Personal Access Token in GitHub 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
  */
 public class CCuenta {
 
